@@ -2,10 +2,10 @@
 Vehicle count in C++ using openCV
 
 
-Instal openCV Library  
+## Instal openCV Library  
 http://docs.opencv.org/2.4/doc/tutorials/introduction/linux_install/linux_install.html  
 
-Execute   
+## Execute   
 cmake .  
 make  
 ./VehicleCount  
