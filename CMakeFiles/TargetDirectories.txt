@@ -1,0 +1,3 @@
+/home/anchor/ExemploOpenCv/example01/CMakeFiles/edit_cache.dir
+/home/anchor/ExemploOpenCv/example01/CMakeFiles/rebuild_cache.dir
+/home/anchor/ExemploOpenCv/example01/CMakeFiles/VehicleCount.dir
